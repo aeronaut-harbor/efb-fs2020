@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Version="2" Name="aeronautharbor-efb-msfs2020" FolderName="Packages">
+  <OutputDirectory>.</OutputDirectory>
+  <TemporaryOutputDirectory>_TemporaryOutput</TemporaryOutputDirectory>
+  <Packages>
+    <Package>PackageDefinitions\aeronautharbor-efb-msfs2020.xml</Package>
+  </Packages>
+</Project>
