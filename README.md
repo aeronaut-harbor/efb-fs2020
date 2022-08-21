@@ -1,2 +1,2 @@
-# Aeronaut Harbor EFB
-Electronic flight bag package for Microsoft Flight Simulator (2020)
+# EFB package for Microsoft Flight Simulator (2020)
+_by Aeronaut Harbor_
